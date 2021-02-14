@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arunit2001.github.io/My-Portfolio/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arunit-kumar/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/the_arunit/) 
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/Arunit2001)
+[![Visits Badge](https://badges.pufler.dev/visits/Arunit2001/Arunit2001?style=for-the-badge)](https://github.com/Arunit2001)
+[![Years Badge](https://badges.pufler.dev/years/Arunit2001)](https://github.com/Arunit2001)
 
 </p>
 
@@ -70,9 +71,5 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Arunit2001&&style=flat-square" align="center" />
-</div>  
 
 
