@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%"/></p>
 
 
-<p align="center">I'm a Web Developer and a Competitive Programmer.<br/>I specialize in Web-Development and C++ programming.<br></p><br/>
+<p align="center">I'm a Web Developer and a Competitive Programmer.<br/>I specialize in Full Stack Web-Development and C++ programming.<br></p><br/>
 
 <summary><h2>What I currently do</h2></summary>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Arunit2001&">
 </p>
 
-<summary><h2><img src="https://i.gifer.com/DXKk.gif" align="center"
+<summary><h2><img src="https://media.giphy.com/media/fPC3JMGABGGT6/giphy.gif" align="center"
                 width="28" /> My Skills</h2></summary>
 <br>
 <div align="center" width="100%">  
