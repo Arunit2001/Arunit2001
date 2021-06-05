@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🔭 I'm currently working as an <strong>Full Stack Development Intern</strong> at <a href="#" target="_blank">Daphnis Labs</a>.
-- 🌱 I’m currently learning <strong>Data Structure and Algorithms</strong> and <strong> React</strong>.
+<!-- - 🔭 I'm currently working as an <strong>Full Stack Development Intern</strong> at <a href="#" target="_blank">Daphnis Labs</a>. -->
+- 🌱 I’m currently learning <strong>Data Structure and Algorithms</strong>.
 - 👯 I’m looking to collaborate on <strong>MERN</strong> projects.
 - 💬 Ask me about Backend (preferably <strong>Node Js</strong>), Front-end(<strong>HTML, CSS, JavaScript</strong>) Web Development and <strong>C++</strong> programming Language.
 
