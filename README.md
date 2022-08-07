@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 textAlign="center"><a href="https://arunit2001.github.io/My-Portfolio/" target="_blank">Hello, I'm Arunit Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
+<h1 align="center">Hello, I'm Arunit Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center" ><img 
  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%"/></p>
