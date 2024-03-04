@@ -1,3 +1,4 @@
+/*
 <!--### Hi there 👋 -->
 
 <!--
@@ -69,5 +70,5 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
-
+*/
 
